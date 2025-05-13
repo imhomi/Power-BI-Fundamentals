@@ -40,7 +40,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 5. 📈 **Data Visualization**
+### 5. 📈 [Data Visualization](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Visualization.zip)
 
 * 📊 Built interactive reports using charts, tables, slicers, etc.
 * 🎯 Added KPI indicators, gauge charts, pie charts, and maps.
