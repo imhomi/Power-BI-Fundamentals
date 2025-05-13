@@ -8,7 +8,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ## ✅ Assignments Summary
 
-### 1. 🧠 **Introduction to Power BI**
+### 1. 🧠 [Introduction to Power BI](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Introduction%20to%20PowerBI.zip)
 
 * 📌 Explored Power BI components: Desktop, Service, and Mobile.
 * 💡 Understood the benefits and capabilities of Power BI.
@@ -16,7 +16,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 2. 📥 **Data Extraction**
+### 2. 📥 [Data Extraction](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Extraction.pbix)
 
 * 🔗 Connected to various sources (Excel, CSV, Web).
 * 🧹 Applied basic transformations in Power Query.
@@ -24,7 +24,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 3. 🧩 **Shaping and Combining Data**
+### 3. 🧩 [Shaping and Combining Data](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Shaping%20and%20Combining%20Data.zip)
 
 * ✂️ Transformed data: filtered rows, split columns, changed data types.
 * 🔄 Merged and appended datasets.
@@ -32,7 +32,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 4. 🔗 **Data Modeling**
+### 4. 🔗 [Data Modeling](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Modeling.zip)
 
 * 🧱 Created relationships between multiple tables.
 * ➕ Defined calculated columns and DAX measures.
@@ -48,7 +48,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 6. ☁️ **Power BI Service**
+### 6. ☁️ [Power BI Service](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/PowerBI%20Service.zip)
 
 * 🚀 Published reports to Power BI Service.
 * 👥 Shared dashboards with users securely.
@@ -64,7 +64,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 8. 🛠️ **Development with Power BI**
+  ### 8. 🛠️ [Development with Power BI](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Development%20with%20PowerBI.zip)
 
 * 📚 Applied best practices for report development.
 * 🧭 Used bookmarks, drill-through, and report tooltips.
