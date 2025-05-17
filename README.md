@@ -56,7 +56,7 @@ This document showcases a series of Power BI assignments completed as part of a 
 
 ---
 
-### 7. 🔌 **Power BI Solution & Direct Connectivity**
+### 7. 🔌 Power BI Solution & Direct Connectivity](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Power%20BI%20Solution%20&%20Direct%20Connectivity)
 
 * ⚡ Used DirectQuery and Live Connection.
 * 🔍 Compared Import mode vs. DirectQuery.
