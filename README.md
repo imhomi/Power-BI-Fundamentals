@@ -71,6 +71,7 @@ There are 3 Key Views in Power BI Desktop
 ---
 Data Types in Power BI
 Every column in Power BI has a specific data type that defines the kind of data it contains. Proper data typing is essential for accurate analysis and visualization.
+
 **1) Whole Number**
 - Contains only whole numbers (e.g., 1, 50, 999).
 - Symbol: Σ (Summation)
