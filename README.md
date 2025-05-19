@@ -8,14 +8,14 @@ So, why choose Power BI when there are so many other tools available? - refer to
 
 Power BI has 2 main components:
 
-1) Power BI Desktop
+1) Power BI Desktop:
 Power BI Desktop is a free Windows application used to create and develop reports.
 It is used for data modeling, visualization, report creation, and data transformation using Power Query.
 Primarily used by data analysts and report developers to design interactive and insightful reports.
 To run Power BI Desktop smoothly, a Windows laptop with at least 8 GB RAM is recommended.
 Think of it as the developer's console, where reports and dashboards are built before publishing.
 
-2) Power BI Service
+2) Power BI Service:
 Power BI Service is the cloud-based platform where reports and dashboards created in Power BI Desktop are published and shared.
 It enables collaboration, real-time data updates, and interactive dashboards through the web.
 Allows users to schedule data refresh, manage data security, and share reports within the organization or with external stakeholders.
@@ -23,13 +23,13 @@ Accessible from any device with internet access — no installation needed.
 Often used by business users, stakeholders, and decision-makers to view and interact with reports.
 ---
 There are 3 Key Views in Power BI Desktop
-1) Report View
+1) Report View:
 This is the canvas area where you design your reports.
 Create visuals, build interactive dashboards, and craft compelling data stories.
 Drag and drop charts, slicers, KPIs, and more.
 Ideal for designing the user interface of your reports.
 
-2) Data View (Table View)
+2) Data View (Table View):
 This view displays your raw data in a table format.
 Once data is imported, you can inspect rows and columns of each table.
 Useful for data validation, cleaning, and checking data types.
