@@ -1,3 +1,11 @@
+# Before starting with my repo ....you need to know what exactly is PowerBI!!!
+Data Analysis using Power BI
+
+Competitors ? : Tableau, Qliksense, SAS, Looker. ZOHO, SAP, Google Analytics
+
+Soooo why Power BI ? - refer to Gartner's BI magic quadrant
+![image](https://github.com/user-attachments/assets/e3f50dc0-8918-4b2e-a693-cad1e904b6ff)
+
 # 📊 Power BI Projects – Assignment Series by Intellipaat
 
 ## 🧾 Overview
