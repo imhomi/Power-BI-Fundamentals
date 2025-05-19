@@ -1,28 +1,21 @@
 ## Assignments Summary
 
 ### 1. 🧠 [Introduction to Power BI](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Introduction%20to%20PowerBI.zip)
----
 
 ### 2. 📥 [Data Extraction](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Extraction.pbix)
----
 
 ### 3. 🧩 [Shaping and Combining Data](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Shaping%20and%20Combining%20Data.zip)
----
 
 ### 4. 🔗 [Data Modeling](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Modeling.zip)
----
 
 ### 5. 📈 [Data Visualization](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Data%20Visualization.zip)
----
 
 ### 6. ☁️ [Power BI Service](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/PowerBI%20Service.zip)
----
 
 ### 7. 🔌 [Power BI Solution & Direct Connectivity](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Power%20BI%20Solution%20&%20Direct%20Connectivity)
----
 
-  ### 8. 🛠️ [Development with Power BI](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Development%20with%20PowerBI.zip)
----
+### 8. 🛠️ [Development with Power BI](https://github.com/imhomi/Power-BI-Fundamentals/blob/main/Development%20with%20PowerBI.zip)
+
 
 ## 🛠️ Tools & Technologies Used
 
