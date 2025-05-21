@@ -26,7 +26,7 @@
 * 📁 Excel, CSV, Web Sources
   
 ---
-# Before starting with my repo ....you need to know what exactly is PowerBI!!!
+# Before starting with my repo ....you need to know what exactly is PowerBI!!
 Data Analysis using Power BI
 PowerBI is used to ***visualize*** the data, which indeed helps people understand it in a clearer and more accessible way.
 Competitors who? : Tableau, Qliksense, SAS, Looker. ZOHO, SAP, Google Analytics
